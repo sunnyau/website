@@ -1,2 +1,2 @@
-# sunnyau.github.co.uk
+# https://sunnyau.github.io/website/
 My static website
